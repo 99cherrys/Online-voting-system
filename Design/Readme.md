@@ -2,15 +2,14 @@
 
 ## High Level Design 
 * Architecture Design :
-![Architecture](https://github.com/arc-arnob/LnT_Mini_Project/blob/main/2_Design/hld_1.png)
+![Architecture](https://github.com/99cherrys/Online-voting-system/blob/main/Design/Architecture%20.png)
 * Component Diagram :
-![ComponentDiagram](https://github.com/arc-arnob/LnT_Mini_Project/blob/main/2_Design/COMPONENT.png)
+![ComponentDiagram]()
 
 * Usecase Diagram :
-![UsecaseDiagram](https://github.com/arc-arnob/LnT_Mini_Project/blob/main/2_Design/Usecasehdl.jpg)
+![UsecaseDiagram]()
 
 ## Low Level Design 
 
 --- TBD Structural and Behavioural Diagram
-![FeaturesLevelStructuralDiagram](Link to Pic)
-![FeaturesBehaviouralDiagram](Link to Pic)
+
