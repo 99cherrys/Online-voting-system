@@ -45,7 +45,6 @@ Authenting voters via finger print match or face recognition check makes this sy
 * Only 4 candidates are mentioned in the list for each constituency.
 * Voter details only contain voter-id, Adhar number, Name, Age, Father name, Spouse name, Constituency, Date of birth.
 
-![Description]()
 ### Explanation:
 * features:
     * Fetch details of voters from database of election commission. 
@@ -115,4 +114,4 @@ Authenting voters via finger print match or face recognition check makes this sy
 ## References
 [Election system wikipedia](https://en.wikipedia.org/wiki/Elections_in_India#:~:text=Members%20of%20Lok%20Sabha%20(House,stand%20in%20their%20respective%20constituencies.&text=Elections%20take%20place%20once%20in,Lok%20Sabha%20(Lower%20house)))
 
-
+[Giant Chart of the project progress](https://github.com/99cherrys/Online-voting-system/blob/main/Requirements/Online%20Voting%20System/OVS%20Gantt%20Chart.xlsx)
