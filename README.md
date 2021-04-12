@@ -1,6 +1,8 @@
 # Online-voting-system
 
    ![Logo](https://github.com/99cherrys/Online-voting-system/blob/main/Requirements/OVS_logo.jpeg)
+   
+   
 
 ## Build
 
@@ -8,10 +10,12 @@ Build | Unit Test | cpp check | Valgrid | Codacy
 ------|-----------|-----------|---------|-------
 `![C/C++ CI]`(To be added) | `![Unit Testing]`(To be added) | `![cppcheck-action]`(To be added) | `![valgrid]`(To be added) | `![code quality]`(To be added)
 
+
+
 ![Banner](https://github.com/99cherrys/Online-voting-system/blob/main/Requirements/OVS_Banner.jpeg)
 
 ## Folder Structure
-S. No. | Folder             | Description
+S. No.  | Folder             | Description
 -------|--------------------| -----------------------------------------
 `1]` | ` Requirements`   | All the requirements and basic plan of the online voting system.
 `2]` | ` Architecture`   | Behaviour Diagrams and Structure Diagram of the online voting system.
