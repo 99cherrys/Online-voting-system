@@ -60,3 +60,4 @@ Authenting voters via finger print match or face recognition check makes this sy
  
 
 ## SWOT ANALYSIS
+![Swot](https://github.com/99cherrys/Online-voting-system/blob/main/Requirements/Online%20Voting%20System/SWOT.jpg)
