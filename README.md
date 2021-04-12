@@ -12,7 +12,7 @@ Build | Unit Test | cpp check | Valgrid | Codacy
 
 
 
-![Banner](https://github.com/99cherrys/Online-voting-system/blob/main/Requirements/OVS_Banner.jpeg)
+![Banner](https://github.com/99cherrys/Online-voting-system/blob/main/Requirements/Online%20Voting%20System/OVS_Banner.jpeg)
 
 
 
