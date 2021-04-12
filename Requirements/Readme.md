@@ -111,7 +111,9 @@ Authenting voters via finger print match or face recognition check makes this sy
 | LR10 | Voting system must be confidential such that the votes casted by each voter is not visible to anyone, not even to the admin. Admin must be able to read only the count of votes for each candidates to announce the final result of each constituency | HR09 | TBD |
 | LR11 | New voters' details must be sent to database of election commission and Voter-id card must be issued to them | HR10 | TBD |
 
+## Giant Chart of the progress in project
+[OVS Giant Chart](https://github.com/99cherrys/Online-voting-system/blob/main/Requirements/Online%20Voting%20System/OVS%20Gantt%20Chart.xlsx)
 ## References
 [Election system wikipedia](https://en.wikipedia.org/wiki/Elections_in_India#:~:text=Members%20of%20Lok%20Sabha%20(House,stand%20in%20their%20respective%20constituencies.&text=Elections%20take%20place%20once%20in,Lok%20Sabha%20(Lower%20house)))
 
-[Giant Chart of the project progress](https://github.com/99cherrys/Online-voting-system/blob/main/Requirements/Online%20Voting%20System/OVS%20Gantt%20Chart.xlsx)
+
