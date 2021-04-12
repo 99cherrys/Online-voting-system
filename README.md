@@ -14,9 +14,11 @@ Build | Unit Test | cpp check | Valgrid | Codacy
 
 ![Banner](https://github.com/99cherrys/Online-voting-system/blob/main/Requirements/OVS_Banner.jpeg)
 
+
+
 ## Folder Structure
 S. No.  | Folder             | Description
--------|--------------------| -----------------------------------------
+--------|--------------------| -----------------------------------------
 `1]` | ` Requirements`   | All the requirements and basic plan of the online voting system.
 `2]` | ` Architecture`   | Behaviour Diagrams and Structure Diagram of the online voting system.
 `3]` | ` Implementation` | Make file, Header file and source files in c-language code. Static and heap Analysis. Unit testing code coverage.
