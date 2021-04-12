@@ -24,7 +24,7 @@ S. No.  | Folder             | Description
 `3]` | ` Implementation` | Make file, Header file and source files in c-language code. Static and heap Analysis. Unit testing code coverage.
 `4]` | ` Test_plan`      | Documents of test plans and test outputs
 `5]` | ` Report`         | Documents of test plans and test outputs
-`6]` | ` Images and Videos` | Related images and videos
+`6]` | ` Images/Videos` | Related images and videos
 
 
 ## References
