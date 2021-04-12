@@ -21,21 +21,7 @@ S. No. | Folder             | Description
 `6]` | ` Images and Videos` | Related images and videos
 
 
-## Contributors List and Summary
-
-SF Id. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
--------|---------|----------------|----------------|---------------|-------------|--------------
-`260159` | Charanya | Online voting system | X No     | X No   |X No   |X No     
-   
-
-## Challenges Faced and How Was It Overcome
-
-1. ...
-2. ...
-3. ...
-4. ...
-
-## Learning Resources
+## References
 1. [Github basic syntax](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
 2. [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
