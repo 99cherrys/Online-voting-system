@@ -1,6 +1,6 @@
 # Online-voting-system
 
-   ![Logo](https://media.istockphoto.com/vectors/online-or-electronic-voting-icon-concept-vector-id1145843365?s=612x612)
+   ![Logo](https://github.com/99cherrys/Online-voting-system/blob/main/Requirements/OVS_logo.jpeg)
 
 ## Build
 
