@@ -17,6 +17,9 @@ Folder             | Description
 `2_Architecture`   | Behaviour Diagrams and Structure Diagram of the online voting system.
 `3_Implementation` | Make file, Header file and source files in c-language code. Static and heap Analysis, Unit testing code coverage.
 `4_Test_plan`      | Documents of test plans and test outputs
+`5_Report`         | Documents of test plans and test outputs
+`6_Images and Videos` | Documents of test plans and test outputs
+
 
 ## Contributors List and Summary
 
