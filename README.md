@@ -8,7 +8,7 @@ Build | Unit Test | cpp check | Valgrid | Codacy
 ------|-----------|-----------|---------|-------
 `![C/C++ CI]`(To be added) | `![Unit Testing]`(To be added) | `![cppcheck-action]`(To be added) | `![valgrid]`(To be added) | `![code quality]`(To be added)
 
-![Banner](https://image.shutterstock.com/z/stock-vector-online-voting-mini-people-concept-flat-vector-illustration-with-computer-screen-voting-box-and-1222770484.jpg)
+![Banner](https://drive.google.com/file/d/1L9RP5KiIY4ZAkd2rk9wyJlTl0mNzNpwD/view?usp=sharing)
 
 ## Folder Structure
 S. No. | Folder             | Description
