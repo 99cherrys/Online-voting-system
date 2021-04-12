@@ -30,6 +30,7 @@ Authenting voters via finger print match or face recognition check makes this sy
 ### Very beneficial for Voters
 * Voters can cast their very easily in less time sitting anywhere irrespective of being in their native constituencies.
 * The votes casted by each individual are confidential, even admins are denied of that. 
+* Providing booth slips for each voter can be avoided completely.
 
 ## Cost and Features with Time 
 | Time | Feature | Cost |
@@ -37,4 +38,25 @@ Authenting voters via finger print match or face recognition check makes this sy
 | 10 days | Online Voting System | Nil
 
 ## Defining Our System
-### Certain assumptions:
+### Certain assumptions: This Project is just a prototype of Online Voting System   
+* All the voters of each constituencies can atleast afford an android sytem or PC and have enough knowledge to cast online votes.
+* In this project only 3 constituencies consisting 50,000 people each are considered for an State Legislative Assembly election Scenario.
+* All the voters have Adhar card mandatorily.
+* Only 4 candidates are mentioned in the list for each constituency.
+* Voter details only contain voter-id, Adhar number, Name, Age, Father name, Spouse name, Constituency, Date of birth.
+
+![Description]()
+### Explanation:
+* features:
+    * Fetch details of voters from database of election commission. 
+    * Add a new voter who are above 18. 
+    * Delete a voter if expired.
+    * Fetch details/status of voter via adhar number/voter 
+    * Update a voter details if required
+    * While casting vote ask voters for date of birth as password for verification
+    * Admin release the list of candidates participate in election and can check only the count of votes.
+    * Each voter can caste only one vote for a particular election.
+    
+ 
+
+## SWOT ANALYSIS
