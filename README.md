@@ -4,9 +4,9 @@
 
 ## Build
 
-Build | Code Quality | Unity | [Git Inspector](using github.io option)
+Build | Unit Test | cpp check | Valgrid | Codacy
 ------|----------|-------|--------------
-To be added | To be added | To be added | To be added
+![C/C++ CI](To be added) | ![Unit Testing](To be added) | ![cppcheck-action](To be added) | ![valgrid](To be added) | ![code quality](To be added)
 
 ![Banner](https://image.shutterstock.com/z/stock-vector-online-voting-mini-people-concept-flat-vector-illustration-with-computer-screen-voting-box-and-1222770484.jpg)
 
@@ -18,7 +18,7 @@ Folder             | Description
 `3_Implementation` | Make file, Header file and source files in c-language code. Static and heap Analysis, Unit testing code coverage.
 `4_Test_plan`      | Documents of test plans and test outputs
 `5_Report`         | Documents of test plans and test outputs
-`6_Images and Videos` | Documents of test plans and test outputs
+`6_Images and Videos` | Related images or videos
 
 
 ## Contributors List and Summary
