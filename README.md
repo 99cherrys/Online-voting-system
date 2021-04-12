@@ -11,14 +11,14 @@ Build | Unit Test | cpp check | Valgrid | Codacy
 ![Banner](https://image.shutterstock.com/z/stock-vector-online-voting-mini-people-concept-flat-vector-illustration-with-computer-screen-voting-box-and-1222770484.jpg)
 
 ## Folder Structure
-Folder             | Description
--------------------| -----------------------------------------
-`1_Requirements`   | All the requirements and basic plan of the online voting system.
-`2_Architecture`   | Behaviour Diagrams and Structure Diagram of the online voting system.
-`3_Implementation` | Make file, Header file and source files in c-language code. Static and heap Analysis, Unit testing code coverage.
-`4_Test_plan`      | Documents of test plans and test outputs
-`5_Report`         | Documents of test plans and test outputs
-`6_Images and Videos` | Related images or videos
+S. No. | Folder             | Description
+-------|--------------------| -----------------------------------------
+`1]` | ` Requirements`   | All the requirements and basic plan of the online voting system.
+`2]` | ` Architecture`   | Behaviour Diagrams and Structure Diagram of the online voting system.
+`3]` | ` Implementation` | Make file, Header file and source files in c-language code. Static and heap Analysis. Unit testing code coverage.
+`4]` | ` Test_plan`      | Documents of test plans and test outputs
+`5]` | ` Report`         | Documents of test plans and test outputs
+`6]` | ` Images and Videos` | Related images and videos
 
 
 ## Contributors List and Summary
