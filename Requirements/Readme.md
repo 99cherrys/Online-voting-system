@@ -61,3 +61,21 @@ Authenting voters via finger print match or face recognition check makes this sy
 
 ## SWOT ANALYSIS
 ![Swot](https://github.com/99cherrys/Online-voting-system/blob/main/Requirements/Online%20Voting%20System/SWOT.jpg)
+
+# 4W&#39;s and 1&#39;H
+
+## Who:
+* Election Voting Commission and Voters
+
+## What:
+* EVMs need more maintenance so as to safe guard and seal it very carefully, After polling all the EVMs to be bought to the main centre and carefully remove the seal and check for the count.
+
+## When:
+* Any State Legislative Assembly Elections or Lok Sabha Elections
+* 
+## Where:
+* No need of going to native constituency and respective booths
+* Just caste vote wherever we are.
+
+## How:
+*  This system provides Easy, Speedy, Accurate, Confidential voting system. OVS does'nt need any maintanance as that of EVMs and it doesn't need physical apperance at the respective booths hence, issue of booth slips to each people can be avoided.
