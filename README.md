@@ -23,7 +23,7 @@ S. No.  | Folder             | Description
 `2]` | ` Architecture`   | Behaviour Diagrams and Structure Diagram of the online voting system.
 `3]` | ` Implementation` | Make file, Header file and source files in c-language code. Static and heap Analysis. Unit testing code coverage.
 `4]` | ` Test_plan`      | Documents of test plans and test outputs
-`5]` | ` Report`         | Documents of test plans and test outputs
+`5]` | ` Report`         | Report of the project
 `6]` | ` Images/Videos` | Related images and videos
 
 
