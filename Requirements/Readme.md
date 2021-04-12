@@ -113,6 +113,6 @@ Authenting voters via finger print match or face recognition check makes this sy
 | LR11 | New voters' details must be sent to database of election commission and Voter-id card must be issued to them | HR10 | TBD |
 
 ## References
-![Election system wikipedia](https://en.wikipedia.org/wiki/Elections_in_India#:~:text=Members%20of%20Lok%20Sabha%20(House,stand%20in%20their%20respective%20constituencies.&text=Elections%20take%20place%20once%20in,Lok%20Sabha%20(Lower%20house)))
+[Election system wikipedia](https://en.wikipedia.org/wiki/Elections_in_India#:~:text=Members%20of%20Lok%20Sabha%20(House,stand%20in%20their%20respective%20constituencies.&text=Elections%20take%20place%20once%20in,Lok%20Sabha%20(Lower%20house)))
 
 
