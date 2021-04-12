@@ -1,6 +1,6 @@
 # Online-voting-system
 
-   ![Logo](https://github.com/99cherrys/Online-voting-system/blob/main/Requirements/OVS_logo.jpeg)
+   ![Logo](https://github.com/99cherrys/Online-voting-system/blob/main/Requirements/Online%20Voting%20System/OVS_logo.jpeg)
    
    
 
