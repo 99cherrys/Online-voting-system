@@ -114,6 +114,6 @@ Authenting voters via finger print match or face recognition check makes this sy
 ## Giant Chart of the progress in project
 [OVS Giant Chart](https://github.com/99cherrys/Online-voting-system/blob/main/Requirements/Online%20Voting%20System/OVS%20Gantt%20Chart.xlsx)
 ## References
-[Election system wikipedia](https://en.wikipedia.org/wiki/Elections_in_India#:~:text=Members%20of%20Lok%20Sabha%20(House,stand%20in%20their%20respective%20constituencies.&text=Elections%20take%20place%20once%20in,Lok%20Sabha%20(Lower%20house)))
+[Election system in India wikipedia](https://en.wikipedia.org/wiki/Elections_in_India#:~:text=Members%20of%20Lok%20Sabha%20(House,stand%20in%20their%20respective%20constituencies.&text=Elections%20take%20place%20once%20in,Lok%20Sabha%20(Lower%20house)))
 
 
