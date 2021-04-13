@@ -104,7 +104,7 @@ Authenting voters via finger print match or face recognition check makes this sy
 | LR03 | Voters must be allowed to check their voting details. Either by Adhar card or by voter-id along with his DOB as password his details can be fetched | HR03 | TBD |
 | LR04 | User must be allowed to change only his marital status, spouse name and constituency | HR04 | TBD |
 | LR05 | If a voter is expired after verifying from a valid death certicate only the admins can remove him from the voting list | HR05 | TBD |
-| LR06 | User shall be able to save the files, if file already exists then it should append to file and should not overwrite it and if file does not exists then it should create a new file | HR05 | TBD-S1 |
+| LR06 | User shall be able to save the files, if file already exists then it should append to file and should not overwrite it and if file does not exists then it should create a new file | HR06 | TBD |
 | LR07 | When user Log off the system, message shall be prompted asking the user to save new records to file before exiting or not | HR06 | TBD |
 | LR08 | The admin must release the list of candidates on the day of election along with their party name for the voters to cast their vote of choice. (Adding symbols of their respective party to be done in future) | HR07 | TBD |
 | LR09 | while casting vote verify adhar number, voter-id and validate using date of birth as mentioned in the adhar card. If all these three do not match the voter is not allowed to vote. So it is responsible of voters to keep their voter-id and adhar card safely such that his details wont be used by third parties and cause to vote proxy vote | HR08 | TBD |
