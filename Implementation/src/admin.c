@@ -1,9 +1,9 @@
 #include"header.h"
 
-int Password()
+int Password(char *p)
 {
 int flag;
-char pwd[10], p[]="Hubli";
+char pwd[10];
 printf("Enter your admin password:");
 scanf("%s",pwd);
 flag = strcmp(p,pwd);
@@ -25,7 +25,7 @@ switch(ch)
 case 1:
 {
 voter vv = read();
-fwrite(&vv, sizeof(voter),1,fp);
+fprintf(fp,"%ld %ld %s %s %s %d\n",vv.adhar, vv.vid, vv.name, vv.father, vv.spouse, vv.age);
 printf("Successfully stored\n");
 break;
 }
@@ -34,24 +34,19 @@ case 2:
 {
 long int a;
 int FLAG;
-FILE *f=fopen("Temp.txt", "r+");
-if(fp == NULL)
-printf("File is empty\n");
-else
-{
-voter vv;
+FILE *f=fopen("Temp.txt", "a");
+voter v;
 printf("Enter adhar number of the voter:");
 scanf("%ld", &a);
 FLAG=0;
-while(fread(&vv, sizeof(voter),1,fp))
+while(!EOF)
 {
-
-if(vv.adhar == a)
-{
+fscanf(fp,"%ld %ld %s %s %s %d\n" ,&v.adhar, &v.vid, v.name, v.father, v.spouse, &v.age);
+if(v.adhar == a)
 FLAG=1;
-}
+
 else
-fwrite(&vv, sizeof(voter),1,f);
+fprintf(f,"%ld %ld %s %s %s %d",v.adhar, v.vid, v.name, v.father, v.spouse, v.age);
 }
 if(FLAG==0)
 printf("Voter not found\n");
@@ -63,7 +58,6 @@ printf("Voter has been successfully deleted\n");
 }
 fclose(f);
 break;
-}
 }
 
 case 3:
@@ -93,15 +87,18 @@ case 5: exit(1);
 
 void Hubli()
 {
+char H[] = "Hubli";
 FILE *fp;
 while(1)
 {
-int flag = Password();
+int flag = Password(H);
 if(flag == 1)
 {
-fp = fopen("Hubli.txt", "r+");
+fp = fopen("Hubli.txt", "a+");
 if(fp == NULL)
+{
 printf("File is empty\n");
+}
 else
 admin_access(fp);
 break;
@@ -113,13 +110,54 @@ fclose(fp);
 }
 
 
+
 void Mysore()
 {
-printf("Mysore\n");
+char M[] = "Mysore";
+FILE *fp;
+while(1)
+{
+int flag = Password(M);
+if(flag == 1)
+{
+fp = fopen("Mysore.txt", "a+");
+if(fp == NULL)
+{
+printf("File is empty\n");
 }
+else
+admin_access(fp);
+break;
+}
+else
+printf("Access denied\n Please enter correct password\n");
+}
+fclose(fp);
+}
+
+
 void Bangalore()
 {
-printf("Bangalore\n");
+char B[] = "Bangalore";
+FILE *fp;
+while(1)
+{
+int flag = Password(B);
+if(flag == 1)
+{
+fp = fopen("Bangalore.txt", "a+");
+if(fp == NULL)
+{
+printf("File is empty\n");
+}
+else
+admin_access(fp);
+break;
+}
+else
+printf("Access denied\n Please enter correct password\n");
+}
+fclose(fp);
 }
 
 void Admin()
@@ -130,11 +168,15 @@ int ch1;
 while(1)
 {
 printf("Choose your constituency:\n1. Hubli\n2. Mysore\n3. Bangalore\n4. exit\n");
-scanf("%d", &ch1);
-if (ch1==4)
-break; 
-else
+scanf("%d", &ch1); 
+if(ch1==1)
 c[ch1-1]();
+else if(ch1==2)
+c[ch1-1]();
+else if(ch1==3)
+c[ch1-1]();
+else 
+break;
 }
 }
 
