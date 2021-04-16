@@ -8,7 +8,7 @@
 
 Build | Unit Test | cpp check | Valgrid | Codacy
 ------|-----------|-----------|---------|-------
-`![C/C++ CI]`(To be added) | `![Unit Testing]`(To be added) | `![cppcheck-action]`(To be added) | `![valgrid]`(To be added) | `![code quality]`(To be added)
+[![C/C++ CI - Build Status](https://github.com/99cherrys/Online-voting-system/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/99cherrys/Online-voting-system/actions/workflows/c-cpp.yml) | `![Unit Testing]`(To be added) | `![cppcheck-action]`(To be added) | `![valgrid]`(To be added) | `![code quality]`(To be added)
 
 
 
