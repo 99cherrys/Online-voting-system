@@ -1,10 +1,14 @@
 # Online-voting-system
 ![Logo](https://github.com/99cherrys/Online-voting-system/blob/main/Requirements/Online%20Voting%20System/OVS_logo.jpeg)
+
+
 ## Build
 Build | Unit Test | cpp check | Valgrid | Codacy
 ------|-----------|-----------|---------|-------
 [![C/C++ CI - Build Status](https://github.com/99cherrys/Online-voting-system/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/99cherrys/Online-voting-system/actions/workflows/c-cpp.yml) | `![Unit Testing]`(To be added) |[![cppcheck-action](https://github.com/99cherrys/Online-voting-system/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/99cherrys/Online-voting-system/actions/workflows/cppcheck.yml) | `![valgrid]`(To be added) | [![Codacy Badge](https://app.codacy.com/project/badge/Grade/9d0bd188a69e41619b7ba11c623a5310)](https://www.codacy.com/gh/99cherrys/Online-voting-system/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=99cherrys/Online-voting-system&amp;utm_campaign=Badge_Grade)
 ![Banner](https://github.com/99cherrys/Online-voting-system/blob/main/Requirements/Online%20Voting%20System/OVS_Banner.jpeg)
+
+
 ## Folder Structure
 S. No.  | Folder             | Description
 --------|--------------------| -----------------------------------------
