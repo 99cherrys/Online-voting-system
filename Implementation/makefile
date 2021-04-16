@@ -34,4 +34,4 @@ valgrind:
 
 clean:
 	del *.DAT
-	del *.$(EXEC
+	del *.$(EXEC)
