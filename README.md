@@ -8,6 +8,7 @@
 
 Build | Unit Test | cpp check | Valgrid | Codacy
 ------|-----------|-----------|---------|-------
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c6f94fcab7ec4adaac9f9b097e91ee0e)](https://app.codacy.com/gh/99cherrys/Online-voting-system?utm_source=github.com&utm_medium=referral&utm_content=99cherrys/Online-voting-system&utm_campaign=Badge_Grade_Settings)
 [![C/C++ CI - Build Status](https://github.com/99cherrys/Online-voting-system/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/99cherrys/Online-voting-system/actions/workflows/c-cpp.yml) | `![Unit Testing]`(To be added) |[![cppcheck-action](https://github.com/99cherrys/Online-voting-system/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/99cherrys/Online-voting-system/actions/workflows/cppcheck.yml) | `![valgrid]`(To be added) | `![code quality]`(To be added)
 
 
