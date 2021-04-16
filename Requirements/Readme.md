@@ -83,32 +83,32 @@ Authenting voters via finger print match or face recognition check makes this sy
 ## High Level Requirements: 
 | ID | Description | Category | Status | 
 | ----- | ----- | ------- | ---------|
-| HR01 | Create files to store details of all the voters | Techincal | TBD | 
+| HR01 | Create files to store details of all the voters | Techincal | DONE | 
 | HR02 | New Users shall be able to add his details | Techincal | TBD | 
 | HR03 | User shall be able to view his/her voter-id status | Techincal | TBD |
 | HR04 | User shall be able to update his/her details | Techincal | TBD |
-| HR05 | Admin shall be able to delete a voter from the list if he/she is no more | Techincal | TBD |
+| HR05 | Admin shall be able to delete a voter from the list if he/she is no more | Techincal | DONE |
 | HR06 | User shall be able to save records to the Text file created by the admin | Techincal | TBD |
 | HR07 | Data should not be lost in case of faliure | Scenario | FUTURE |
-| HR08 | Admin must provide the list of canditates participating in election | Technical | TBD |
-| HR09 | While casting vote authenticate the user | Technical | TBD |
-| HR10 | Admin can view only the count of total number of votes | Technical | TBD |
+| HR08 | Admin must provide the list of canditates participating in election | Technical | DONE |
+| HR09 | While casting vote authenticate the user | Technical | PARTIAL |
+| HR10 | Admin can view only the count of total number of votes | Technical | DONE |
 | HR11 | Issue of voter-id card for new voters | Technical | FUTURE |
 
 ##  Low level Requirements:
  
 | ID | Description | HLR ID | Status (Implemented/Future) |
 | ------ | --------- | ------ | ----- |
-| LR01 | create text files for each constituencies and fetch the details into the text files from election commission database. The data provied by the election commission must consist of adhar card, name, age, DOB, Father name, gender and spouse name. voter-id number and constituency (if the person has registered)  | HR01 | TBD |
+| LR01 | create text files for each constituencies and fetch the details into the text files from election commission database. The data provied by the election commission must consist of adhar card, name, age, DOB, Father name, gender and spouse name. voter-id number and constituency (if the person has registered)  | HR01 | PARTIAL |
 | LR02 | New voters must have adhar card with date of birth (DD:MM:YYYY format) on it. While registering for new voter-id adhar card is taken as valid proof also date of birth as mentioned on the adhar card for password.| HR02 | TBD |
 | LR03 | Voters must be allowed to check their voting details. Either by Adhar card or by voter-id along with his DOB as password his details can be fetched | HR03 | TBD |
 | LR04 | User must be allowed to change only his marital status, spouse name and constituency | HR04 | TBD |
-| LR05 | If a voter is expired after verifying from a valid death certicate only the admins can remove him from the voting list | HR05 | TBD |
-| LR06 | User shall be able to save the files, if file already exists then it should append to file and should not overwrite it and if file does not exists then it should create a new file | HR06 | TBD |
+| LR05 | If a voter is expired after verifying from a valid death certicate only the admins can remove him from the voting list | HR05 | DONE |
+| LR06 | User shall be able to save the files, if file already exists then it should append to file and should not overwrite it and if file does not exists then it should create a new file | HR06 | DONE |
 | LR07 | When user Log off the system, message shall be prompted asking the user to save new records to file before exiting or not | HR07 | TBD |
-| LR08 | The admin must release the list of candidates on the day of election along with their party name for the voters to cast their vote of choice. (Adding symbols of their respective party to be done in future) | HR08 | TBD |
-| LR09 | while casting vote verify adhar number, voter-id and validate using date of birth as mentioned in the adhar card. If all these three do not match the voter is not allowed to vote. So it is responsible of voters to keep their voter-id and adhar card safely such that his details wont be used by third parties and cause proxy vote | HR09 | TBD |
-| LR10 | Voting system must be confidential such that the votes casted by each voter is not visible to anyone, not even to the admin. Admin must be able to read only the count of votes for each candidates to announce the final result of each constituency | HR10 | TBD |
+| LR08 | The admin must release the list of candidates on the day of election along with their party name for the voters to cast their vote of choice. (Adding symbols of their respective party to be done in future) | HR08 | DONE |
+| LR09 | while casting vote verify adhar number, voter-id and validate using date of birth as mentioned in the adhar card. If all these three do not match the voter is not allowed to vote. So it is responsible of voters to keep their voter-id and adhar card safely such that his details wont be used by third parties and cause proxy vote | HR09 | PARTIAL |
+| LR10 | Voting system must be confidential such that the votes casted by each voter is not visible to anyone, not even to the admin. Admin must be able to read only the count of votes for each candidates to announce the final result of each constituency | HR10 | DONE |
 | LR11 | New voters' details must be sent to database of election commission and Voter-id card must be issued to them | HR11 | TBD |
 
 ## Giant Chart of the progress in project
