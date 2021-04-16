@@ -1,6 +1,6 @@
 /**
  * @header.h
- * @author Charanya G ()
+ * @author Charanya G (https://github.com/99cherrys/Online-voting-system.git)
  * @brief This program is for simulating data manipulation using Linked List
  * @version 0.1
  * @date 2021-04-10
