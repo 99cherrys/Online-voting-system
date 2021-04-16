@@ -23,8 +23,6 @@ char name[20], father[20], spouse[20], place[20];
 int age;
 }voter;
 
-voter read();
-
 typedef struct cand
 {
 int num;
@@ -32,10 +30,7 @@ char name[20];
 }cand;
 
 void Exit();
-
-
 void Admin();
-
-
 void user();
+voter read();
 
